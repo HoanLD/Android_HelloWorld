@@ -10,5 +10,7 @@ public class Helloworld extends Activity {
         super.onCreate(savedInstanceState);
 		//Add some comment
         setContentView(R.layout.main);
+		
+		ggjjjjj
     }
 }
