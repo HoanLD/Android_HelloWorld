@@ -11,6 +11,5 @@ public class Helloworld extends Activity {
 		//Add some comment
         setContentView(R.layout.main);
 		
-		ggjjjjj
     }
 }
